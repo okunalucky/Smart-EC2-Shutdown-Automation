@@ -18,8 +18,8 @@ Leveraging AWS Lambda to manage EC2 instances can be beneficial in various scena
 <li>Automated Compliance: Enforcing organizational policies that limit the usage of certain instance types, ensuring compliance with cost management strategies.</li>
 <li>Scheduled Maintenance: Implementing scheduled functions that shut down instances during non-peak hours to save costs.</li>
 <li>Development and Testing: Quickly managing instances in development and testing environments, ensuring that resources are only active when needed.</li></p>
-<h2>With this foundational knowledge, proceed to vscode and run the following codes</h2>
-<p><li>You start by imorting boto3</li></p>
+<h2>Steps</h2>
+<p><li>You start by imorting boto3 on vscode</li></p>
 <p><li>Define the minimum instance type</li></p>
 <p><li>go to instance boto 3 documentation to get a list of all the instance type and also use amazon q to do the sorting</li></p>
 <p><li>Use a for loop to define the instance id</li></p>
